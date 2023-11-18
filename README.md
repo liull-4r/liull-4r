@@ -5,7 +5,7 @@ I'm a full-stack web developer and an electrical engineer with a passion for bui
 ## Skills and Expertise
 
 - Programming Languages: JavaScript, Python
-- Front-End: HTML, CSS, React , Django
+- Front-End: HTML, CSS, React 
 - Databases: MySQL, MongoDB
 - Version Control: Git, GitHub
 
